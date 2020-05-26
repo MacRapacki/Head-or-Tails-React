@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/Head-or-Tails-React-/static/js/main.dcc97461.chunk.js",
+    "main.js.map": "/Head-or-Tails-React-/static/js/main.dcc97461.chunk.js.map",
+    "runtime-main.js": "/Head-or-Tails-React-/static/js/runtime-main.202a7d3a.js",
+    "runtime-main.js.map": "/Head-or-Tails-React-/static/js/runtime-main.202a7d3a.js.map",
+    "static/js/2.61d874d0.chunk.js": "/Head-or-Tails-React-/static/js/2.61d874d0.chunk.js",
+    "static/js/2.61d874d0.chunk.js.map": "/Head-or-Tails-React-/static/js/2.61d874d0.chunk.js.map",
+    "index.html": "/Head-or-Tails-React-/index.html",
+    "precache-manifest.c4d2d3e7d9d8490fd782a263e52dca55.js": "/Head-or-Tails-React-/precache-manifest.c4d2d3e7d9d8490fd782a263e52dca55.js",
+    "service-worker.js": "/Head-or-Tails-React-/service-worker.js",
+    "static/js/2.61d874d0.chunk.js.LICENSE.txt": "/Head-or-Tails-React-/static/js/2.61d874d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.202a7d3a.js",
+    "static/js/2.61d874d0.chunk.js",
+    "static/js/main.dcc97461.chunk.js"
+  ]
+}
