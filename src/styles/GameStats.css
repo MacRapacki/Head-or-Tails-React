@@ -1,0 +1,22 @@
+h2 {
+    width: 100%;
+    text-align: center;
+    position: relative;
+}
+
+h2::before {
+    position: absolute;
+    content: "";
+    width: 350px;
+    height: 3px;
+    background-color: black;
+    left: 50%;
+    bottom: -10px;
+    transform: translateX(-50%);
+
+}
+
+p.bottom_stats {
+
+    width: 30%;
+}

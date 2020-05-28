@@ -1,10 +1,6 @@
-import React, { useState, } from 'react'
-import GameStats from './GameStats.js'
-// import PlayBtn from './PlayBtn'
-
-
-
-
+import React, { useState, } from 'react';
+import GameStats from './GameStats.js';
+import './styles/App.css'
 
 function App() {
 
@@ -16,14 +12,12 @@ function App() {
 
   function handleChooseHead() {
     setSide('Heads')
-    // headSide.current.innerHTML = ('Head');
-    // console.log(headSide.current.innerHTML)
+
   }
 
   function handleChooseTail() {
     setSide('Tails')
-    // headSide.current.innerHTML = ('Tail');
-    // console.log(headSide.current)
+
   }
 
   const arr = ['Heads', 'Tails']
@@ -49,15 +43,17 @@ function App() {
     }
   }
 
+
+
   return (
-    <>
+    <div className="app">
       <h1>Heads or Tails Game</h1>
-      <p>Choose Your coin side</p>
-      <button onClick={handleChooseHead}>Heads</button> or <button onClick={handleChooseTail}>Tails</button>
+      <p className="coin">Choose Your coin side</p>
+      <button onClick={handleChooseHead}>Heads</button> <span> or</span> <button onClick={handleChooseTail}>Tails</button>
       <p>your choice is: <span>{coinSide}</span></p>
       <button onClick={checkWin}>Play</button>
-      <GameStats games={totalGames} wins={totalWins} loses={totalLoses} />
-    </>
+      <GameStats className='stats' games={totalGames} wins={totalWins} loses={totalLoses} />
+    </div>
   );
 }
 
