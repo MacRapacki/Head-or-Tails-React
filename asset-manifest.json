@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Head-or-Tails-React/static/css/main.22e1caa5.chunk.css",
+    "main.css": "/Head-or-Tails-React/static/css/main.fcae72e2.chunk.css",
     "main.js": "/Head-or-Tails-React/static/js/main.b971790f.chunk.js",
     "main.js.map": "/Head-or-Tails-React/static/js/main.b971790f.chunk.js.map",
     "runtime-main.js": "/Head-or-Tails-React/static/js/runtime-main.d1bb928c.js",
@@ -8,15 +8,15 @@
     "static/js/2.61d874d0.chunk.js": "/Head-or-Tails-React/static/js/2.61d874d0.chunk.js",
     "static/js/2.61d874d0.chunk.js.map": "/Head-or-Tails-React/static/js/2.61d874d0.chunk.js.map",
     "index.html": "/Head-or-Tails-React/index.html",
-    "precache-manifest.1ff319167c234008361fc11e2e0ec64e.js": "/Head-or-Tails-React/precache-manifest.1ff319167c234008361fc11e2e0ec64e.js",
+    "precache-manifest.45efe0fb04bfc70581b2742d220bb8d6.js": "/Head-or-Tails-React/precache-manifest.45efe0fb04bfc70581b2742d220bb8d6.js",
     "service-worker.js": "/Head-or-Tails-React/service-worker.js",
-    "static/css/main.22e1caa5.chunk.css.map": "/Head-or-Tails-React/static/css/main.22e1caa5.chunk.css.map",
+    "static/css/main.fcae72e2.chunk.css.map": "/Head-or-Tails-React/static/css/main.fcae72e2.chunk.css.map",
     "static/js/2.61d874d0.chunk.js.LICENSE.txt": "/Head-or-Tails-React/static/js/2.61d874d0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d1bb928c.js",
     "static/js/2.61d874d0.chunk.js",
-    "static/css/main.22e1caa5.chunk.css",
+    "static/css/main.fcae72e2.chunk.css",
     "static/js/main.b971790f.chunk.js"
   ]
 }
